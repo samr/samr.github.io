@@ -2,4 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+dist
 vendor
+package-lock.json
+node_modules
