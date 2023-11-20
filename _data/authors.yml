@@ -6,6 +6,11 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
+samr:
+  name: Sam Riesland
+  twitter: samr
+  url: https://github.com/samr/
+
 cotes:
   name: Cotes Chung
   twitter: cotes2020
