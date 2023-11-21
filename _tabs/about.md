@@ -18,3 +18,8 @@ I do, which is fun). I find I am devoting more of my time to developing and buil
 challengeing, and also quite rewarding.
 
 I hope to share some thoughts and adventures here, but fair warning, I'm not very consistent at putting out content.
+
+-----
+
+Except where otherwise noted, the content on this site is licensed under the Creative Commons Attribution 4.0
+International (CC BY 4.0) License by the author.

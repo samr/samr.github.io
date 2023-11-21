@@ -8,7 +8,7 @@ lang: en-US
 timezone: America/Los_Angeles
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://github.com/samr/samr.github.io/blob/3d3a0cda480b74e6e8e2d911d45f960da4f4feec/image.png
 
 title: Sam Riesland
 tagline: software engineer, manager, vim enthusiast, traveler  # subtitle
