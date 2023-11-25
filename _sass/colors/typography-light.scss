@@ -38,16 +38,16 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(113, 113, 113);
-  --site-subtitle-color: #717171;
-  --sidebar-bg: #f6f8fa;
-  --sidebar-border-color: #efefef;
-  --sidebar-muted-color: #545454;
-  --sidebar-active-color: #1d1d1d;
-  --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
-  --sidebar-btn-bg: white;
-  --sidebar-btn-color: #8e8e8e;
-  --avatar-border-color: white;
+  --site-title-color: rgb(213, 213, 213);
+  --site-subtitle-color: #868686;
+  --sidebar-bg: radial-gradient(circle, #394d61 0%, #1d1f27 100%);
+  --sidebar-border-color: #292929;
+  --sidebar-muted-color: #A6A6A6;
+  --sidebar-active-color: rgb(255, 255, 255, 0.95);
+  --sidebar-hover-bg: #262626;
+  --sidebar-btn-bg: #232328;
+  --sidebar-btn-color: #787878;
+  --avatar-border-color: rgb(206, 206, 206, 0.9);
 
   /* Topbar */
   --topbar-bg: rgb(255, 255, 255, 0.7);

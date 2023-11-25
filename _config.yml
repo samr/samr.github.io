@@ -8,7 +8,7 @@ lang: en-US
 timezone: America/Los_Angeles
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/samr/samr.github.io/blob/3d3a0cda480b74e6e8e2d911d45f960da4f4feec/image.png
+avatar: assets/img/profile.png
 
 title: Sam Riesland
 tagline: software engineer, manager, vim enthusiast, traveler  # subtitle
@@ -37,7 +37,7 @@ social:
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 google_analytics:
-  id: ''              # fill in your Google Analytics ID
+  id: 'G-SWPZFHVT2N'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
